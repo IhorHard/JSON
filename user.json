@@ -1,0 +1,12 @@
+{	
+	"user_name":"Elizabeth",
+	"user_age":20,
+	"user_devices": {
+				
+				"device_1":"Iphone 14 pro",
+				"device_2":"Lenovo g1337"
+				
+			 }
+
+}
+
