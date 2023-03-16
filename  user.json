@@ -1,0 +1,25 @@
+{
+
+      "name":"Al Capone",
+      "age":28
+         
+ "Pet":{
+
+        "Pet_type":"cat",
+                "Pet_name":"Senya"
+
+             "Pet":{
+                "Pet_type":"dog",
+                "Pet_name":"Mikki"
+              
+              "PET":{
+                "pet_type":"dog",
+                "Pet_name":"Charlie"
+                },
+      
+      " future_salary":"1337"
+
+
+        }
+
+
